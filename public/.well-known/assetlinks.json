@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "com.herokuapp.paramorepwa.twa",
+                     "sha256_cert_fingerprints": ["37:3A:47:68:3B:CC:82:55:DF:5D:B4:8D:0E:F0:38:B8:68:D1:7E:AD:FE:22:E7:B4:14:CA:58:32:B3:88:EB:56"] }
+      }
+]
